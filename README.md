@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I used basic HTML, i.e. headings, links, images, paragraphs, lists, and titles, to create a small recipes webpage, consisting of a home page linking to three different recipes.
