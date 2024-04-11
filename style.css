@@ -1,0 +1,18 @@
+body {
+    background-color: slategrey;
+    color:lavenderblush;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1,h2,p {
+    text-align: center;
+}
+
+ul {
+    font-size: 22px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
