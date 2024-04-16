@@ -12,7 +12,23 @@ ul {
     font-size: 22px;
 }
 
+div {
+    width: 1300px;
+    margin: 50px auto;
+}
+
+.recipes {
+    display: inline-block;
+}
+
 img {
     width: 500px;
-    height: auto;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.index {
+    width: 400px;
+    height: 400px;
 }
